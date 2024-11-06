@@ -1,6 +1,6 @@
 # CuckooSearch-Kmeans Algorithm
 
-CuckooSearch-Kmeans algorithm (CS-Kmeans) is a learning framework to make recommendations. The key idea is to learn the user-item interaction using matrix factorization (MF) or neural collaborative filtering (NCF) to project them into a latent space and  explore the latter to find the best clusterization on which base a model-based collaborative filtering algorithm.
+CuckooSearch-Kmeans algorithm (CS-Kmeans) is a learning framework to make recommendations. The key idea is to learn the user-item interaction using matrix factorization (MF) or neural collaborative filtering (NCF) to project them into a latent space and explore the latter to find the best clusterization to use as input a model-based collaborative filtering algorithm.
 
 ## Dataset
 
